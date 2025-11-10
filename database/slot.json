@@ -1,0 +1,35 @@
+[
+  {
+    "owner": 902323471449739284,
+    "time": 20241221,
+    "channel": 1317615702966013972,
+    "guild_id": 1269055887998324858,
+    "ping": 0,
+    "ping_limit": 1,
+    "everyone_ping": 0,
+    "everyone_ping_limit": 1,
+    "recovery_code": "Csz2KRmyEZHrQtP1q7moDhzjo6NrpZ2g"
+  },
+  {
+    "owner": 1005885167803576402,
+    "time": 20241221,
+    "channel": 1317616951316713603,
+    "guild_id": 1313238027690049646,
+    "ping": 0,
+    "ping_limit": 1,
+    "everyone_ping": 0,
+    "everyone_ping_limit": 1,
+    "recovery_code": "PGJ801ZSMEMtukSeke7mlfDsgBCOvKSI"
+  },
+  {
+    "owner": 1190010040720052277,
+    "time": 20260227,
+    "channel": 1344686686784847914,
+    "guild_id": 1259897325569179780,
+    "ping": 0,
+    "ping_limit": 3,
+    "everyone_ping": 0,
+    "everyone_ping_limit": 1,
+    "recovery_code": "AtRJPnWZtjgtndM3pSORzyEdvl2fw69B"
+  }
+]
